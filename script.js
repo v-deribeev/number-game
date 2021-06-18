@@ -60,7 +60,8 @@ document.querySelector('.check').addEventListener('click', function () {
     document.querySelector('.message').textContent = 'Input a Number btw 1-20';
   }
 });
-
+// to refresh github pages
+// to refresh github pages
 // Reset Function
 document.querySelector('.again').addEventListener('click', function () {
   //document.location.href = '';
